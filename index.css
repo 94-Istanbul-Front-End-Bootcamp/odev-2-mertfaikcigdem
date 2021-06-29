@@ -1,4 +1,5 @@
 #filterBox {
+    margin-left: 10%;
     width: 20%;
     display: none;
     flex-direction: column;
@@ -9,4 +10,14 @@
 
 .list {
     margin-top: 25px;
+}
+
+.list li {
+    border: 2px solid #0d6efd;
+    border-top: none;
+    box-shadow: 2px 5px #0d6efd;
+}
+
+.buttonClass {
+    float: left;
 }

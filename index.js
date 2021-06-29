@@ -17,7 +17,7 @@ function fetchData(){
             listData(responseData);
         })  
     } catch (e) {
-        alert("Bir hata oluştu");
+        alert(e);
     }
     
 }
