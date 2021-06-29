@@ -1,0 +1,12 @@
+#filterBox {
+    width: 20%;
+    display: none;
+    flex-direction: column;
+    margin-top: 30px;
+    padding: 5px;
+
+}
+
+.list {
+    margin-top: 25px;
+}
